@@ -1,5 +1,6 @@
 body {
     background-color: hsl(216, 12%, 8%) !important;
+    color: hsl(0, 0%, 100%) !important;
 }
 
 .container {
@@ -11,3 +12,7 @@ body {
     margin: 20%;
     
 } 
+
+#button {
+    background-color: hsl(25, 97%, 53%);
+}

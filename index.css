@@ -4,4 +4,10 @@ body {
 
 .container {
     background-color: hsl(213, 19%, 18%);
+    height: 200px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+    margin: 20%;
+    
 } 
